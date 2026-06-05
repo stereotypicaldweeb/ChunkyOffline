@@ -10,5 +10,7 @@ $function chunky_offline:utils/macro/command {"command":"chunky center $(x) $(z)
 
 $function chunky_offline:utils/macro/command {"command":"chunky radius $(radius)"}
 
+$function chunky_offline:utils/macro/command {"command":"chunky world $(world)"}
+
 function chunky_offline:utils/macro/command {"command":"chunky start"}
 function chunky_offline:utils/macro/command {"command":"chunky confirm"}

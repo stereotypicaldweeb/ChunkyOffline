@@ -9,7 +9,15 @@
 				"color": "#c43037"
 			},
 			{
-				"text": " - \nBy ",
+				"text": " - \nFork by ",
+				"color": "gray"
+			},
+			{
+				"text": "github.com/stereotypicaldweeb",
+				"color": "#683edd"
+			},
+			{
+				"text": " - \nOriginal by ",
 				"color": "gray"
 			},
 			{
